@@ -56,12 +56,7 @@ ninja.data = [{
           section: "News",},{id: "news-and-hello-san-diego-i-am-very-excited-to-begin-my-phd-studies-today-at-the-university-of-california-san-diego",
           title: 'And hello San Diego! I am very excited to begin my PhD studies...',
           description: "",
-          section: "News",},{id: "projects-ticket-splitting",
-          title: 'Ticket Splitting',
-          description: "With Shiro Kuriwaki",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-the-effect-of-media-salience-on-parliamentary-speech-behavior",
+          section: "News",},{id: "projects-the-effect-of-media-salience-on-parliamentary-speech-behavior",
           title: 'The Effect of Media Salience on Parliamentary Speech Behavior',
           description: "Master Thesis at the University of Konstanz",
           section: "Projects",handler: () => {
