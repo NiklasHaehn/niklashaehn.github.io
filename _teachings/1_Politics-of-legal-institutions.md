@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POLI104V: Politics of Legal Institutions
+title: "POLI104V: Politics of Legal Institutions"
 description: Teaching Assistant for Professor Amna Salam Winter Quarter 2026
 img:assets/img/Politics_of_Legal_Institutions.jpg
 importance: 1
