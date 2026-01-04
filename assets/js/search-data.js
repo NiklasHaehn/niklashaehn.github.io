@@ -61,9 +61,9 @@ ninja.data = [{
           description: "Master Thesis at the University of Konstanz",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-poli104v-politics-of-legal-institutions",
+          title: 'POLI104V: Politics of Legal Institutions',
+          description: "Teaching Assistant for Professor Amna Salam Winter Quarter 2026",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/1_Politics-of-legal-institutions.html";
             },},{
