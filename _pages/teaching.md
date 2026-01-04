@@ -5,7 +5,7 @@ permalink: /teaching/
 description: 
 nav: true
 nav_order: 3
-display_categories: [2025]
+display_categories: Teaching Assistant
 horizontal: false
 ---
 
