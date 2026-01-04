@@ -103,6 +103,8 @@ collections:
     output: true
   teachings:
     output: true
+  repositories:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
