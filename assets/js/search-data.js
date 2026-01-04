@@ -61,6 +61,11 @@ ninja.data = [{
           description: "Master Thesis at the University of Konstanz",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
+            },},{id: "teachings-",
+          title: '',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/1_Politics-of-legal-institutions.html";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
