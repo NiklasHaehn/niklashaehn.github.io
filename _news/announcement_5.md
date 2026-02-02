@@ -5,4 +5,3 @@ inline: true
 related_posts: false
 ---
 I am excited to be supporting Amna Salam this quarter as a Teaching Assistant for the course [Politics of Legal Institutions](/teachings/1_Politics-of-legal-institutions.html).
-
