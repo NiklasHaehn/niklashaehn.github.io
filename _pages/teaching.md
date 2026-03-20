@@ -5,7 +5,7 @@ permalink: /teaching/
 description: 
 nav: true
 nav_order: 3
-display_categories: Teaching Assistant
+display_categories: [Teaching Assistant, Teaching Notes]
 horizontal: false
 ---
 
@@ -20,21 +20,11 @@ horizontal: false
   {% assign categorized_teachings = site.teachings | where: "category", category %}
   {% assign sorted_teachings = categorized_teachings | sort: "importance" %}
   <!-- Generate cards for each teaching -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for teaching in sorted_teachings %}
-      {% include teachings_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div>
     {% for teaching in sorted_teachings %}
       {% include teachings.liquid %}
     {% endfor %}
   </div>
-  {% endif %}
   {% endfor %}
 
 {% else %}
@@ -45,21 +35,10 @@ horizontal: false
 
   <!-- Generate cards for each teaching -->
 
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for teaching in sorted_teachings %}
-      {% include teachings_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for teaching in sorted_teachings %}
-      {% include teachings.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
+<div>
+  {% for teaching in sorted_teachings %}
+    {% include teachings.liquid %}
+  {% endfor %}
+</div>
 {% endif %}
 </div>
