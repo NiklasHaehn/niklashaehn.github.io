@@ -62,6 +62,11 @@ ninja.data = [{
           description: "Teaching Assistant for Professor Amna Salam Winter Quarter 2026",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/1_Politics-of-legal-institutions.html";
+            },},{id: "teachings-short-introduction-to-r-tidyverse-crash-course",
+          title: 'Short Introduction to R (Tidyverse) — Crash Course',
+          description: "A three-part introductory course to R and the tidyverse, covering data management, visualization, and statistical analysis.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2_R-Intro.html";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
