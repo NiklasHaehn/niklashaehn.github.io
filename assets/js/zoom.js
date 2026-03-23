@@ -1,1 +1,1 @@
-$(document).ready((function(){medium_zoom=mediumZoom("[data-zoomable]",{background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee"})}));
+$(document).ready((function(){medium_zoom=mediumZoom("img:not(.no-zoom):not(nav img):not(.navbar-brand img)",{background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee"})}));
