@@ -5,7 +5,7 @@ permalink: /teaching/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Teaching Assistant, Teaching Notes]
+display_categories: [Teaching Assistant, Teaching Notes, Teaching Tools]
 horizontal: false
 ---
 
