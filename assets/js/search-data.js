@@ -52,6 +52,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-excited-to-be-supporting-amna-salam-this-quarter-as-a-teaching-assistant-for-the-course-politics-of-legal-institutions",
           title: 'I am excited to be supporting Amna Salam this quarter as a Teaching...',
           description: "",
+          section: "News",},{id: "news-check-out-my-new-autograder-package-robjgrader-an-r-package-for-automated-grading-of-r-submissions-in-political-science-methods-courses",
+          title: 'Check out my new autograder package robjgrader — an R package for automated...',
+          description: "",
           section: "News",},{id: "projects-the-effect-of-media-salience-on-parliamentary-speech-behavior",
           title: 'The Effect of Media Salience on Parliamentary Speech Behavior',
           description: "Master Thesis at the University of Konstanz",
@@ -67,6 +70,11 @@ ninja.data = [{
           description: "A three-part introductory course to R and the tidyverse, covering data management, visualization, and statistical analysis.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2_R-Intro.html";
+            },},{id: "teachings-robjgrader",
+          title: 'robjgrader',
+          description: "An R package for automated grading of R submissions in political science methods courses.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/3_robjgrader.html";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
