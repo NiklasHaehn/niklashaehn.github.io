@@ -75,6 +75,11 @@ ninja.data = [{
           description: "An R package for automated grading of R submissions in political science methods courses.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/3_robjgrader.html";
+            },},{id: "teachings-poli100x-data-analysis-amp-u-s-politics",
+          title: 'POLI100X: # Data Analysis &amp;amp; U.S. Politics',
+          description: "Teaching Assistant for Professor Pamela Ban Spring Quarter 2026",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/4_Data-Analysis-and-US-Politics.html";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
