@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "POLI100X: # Data Analysis & U.S. Politics"
+title: "POLI100X: Data Analysis & U.S. Politics"
 description: "Teaching Assistant for Professor Pamela Ban Spring Quarter 2026"
 img: assets/img/Politics_of_Legal_Institutions.jpg
 importance: 1
