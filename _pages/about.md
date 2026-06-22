@@ -23,9 +23,8 @@ announcements:
 
 Hello, and welcome to my homepage!
 
-I am a PhD student in Political Science at the [University of California, San Diego](https://polisci.ucsd.edu/grad/index.html), specializing in American politics and political methodology. Prior to starting my PhD, I was a Postgraduate Associate and CSAP Predoctoral Fellow working with Shiro Kuriwaki and Josha Kalla at the Institution for Social and Policy Studies at Yale University.
+I am a PhD student in Political Science at the [University of California, San Diego](https://polisci.ucsd.edu/grad/index.html). Prior to starting my PhD, I was a Postgraduate Associate and CSAP Predoctoral Fellow working with Shiro Kuriwaki and Josh Kalla at the Institution for Social and Policy Studies at Yale University.
 
-My research focuses on quantitative and computational methodology. I am particularly interested in computational social science, social media, interest groups, and intra-party competition.
-More broadly, my work combines diverse research designs and data sources, including causal inference for observational data, text analysis, large language models, machine learning, and game theory.
+My research centers on political communication and mass media. I am especially interested in media pluralism and the effects of media on political behavior, particularly political knowledge and information, voting behavior, and polarization. Methodologically, I am committed to causal identification and measurement, combining research designs for observational data with computational tools such as video, photo, and text as data, large language models, and formal theory.
 
 I hold an MSc in Political Economy from the University of Konstanz and a BA in Political Science and Public Law from the University of Mannheim. Prior to graduate school, I worked as Managing Editor at the peer-reviewed journal  [European Union Politics](https://journals.sagepub.com/home/eup), as a data scientist at [PD-Berater der oeffentlichen Hand](https://www.pd-g.de/), and as a research assistant at New York University.

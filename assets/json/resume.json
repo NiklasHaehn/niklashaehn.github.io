@@ -17,6 +17,15 @@
   },
   "work": [
     {
+      "name": "Center for American Politics, University of California, San Diego",
+      "position": "Graduate Student Researcher",
+      "url": "https://cap.ucsd.edu/",
+      "startDate": "2026-06-15",
+      "endDate": "",
+      "summary": "Building a large-scale dataset of presidential imagery to study political self-presentation and communication.",
+      "highlights": ["Political Communication", "Computational Methods"]
+    },
+    {
       "name": "Institution for Social and Policy Studies, Yale University, U.S.",
       "position": "Postgraduate Associate and CSAP Predoctoral Fellow",
       "url": "https://csap.yale.edu/people/niklas-haehn",
@@ -112,9 +121,9 @@
       "name": "Political Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Intra-Party Competition",
-        "Political Elite Behavior",
-        "Computational Methods"
+        "Political Communication",
+        "Mass Media",
+        "Causal Identification"
       ]
     }
   ]
